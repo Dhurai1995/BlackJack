@@ -1,0 +1,2 @@
+C:\VS Projects\blackJack\Debug\blackJack.exe
+C:\VS Projects\blackJack\Debug\blackJack.pdb
